@@ -1,0 +1,9 @@
+{
+  "description": "Simple public guidance for concise repository README files.",
+  "devDependencies": {
+    "prettier": "^3.8.1"
+  },
+  "name": "kexxer-readme",
+  "private": true,
+  "version": "0.1.0-alpha.1"
+}
