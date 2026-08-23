@@ -1,10 +1,10 @@
 # Kexxer README
 
-## Guidance For This Document <!-- v0.3.1 -->
+## Guidance For This Document
 
-The primary, authoritative copy of this guidance is
-`https://github.com/kexxer-ui/kexxer-readme/blob/main/docs/readme-document-guidance.md`.
-Keep embedded copies synchronized with it.
+[Kexxer README document guidance](https://github.com/kexxer-ui/kexxer-readme/blob/main/docs/readme-document-guidance.md)
+is the primary, authoritative copy. Keep embedded copies synchronized with it.
+This is guidance version `0.3.2`.
 
 - Apart from this guidance section, a repository README has two main `##`
   sections: Overview and Developer Notes.
@@ -33,7 +33,7 @@ files maintained collaboratively by people and AI agents.
 
 ### README Document Guidance
 
-- [README Document Guidance](https://github.com/kexxer-ui/kexxer-readme/blob/main/docs/readme-document-guidance.md)
-  is the primary, authoritative definition of the README format.
+- [README Document Guidance](docs/readme-document-guidance.md) is the primary,
+  authoritative definition of the README format.
 - Repository READMEs embed the copyable guidance and keep it synchronized with
   the authoritative document.
