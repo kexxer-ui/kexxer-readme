@@ -1,28 +1,8 @@
 # Kexxer README
 
-## Guidance For This Document
+[README guidance](https://github.com/kexxer-ui/kexxer-readme/blob/main/docs/readme-document-guidance.md)
 
-[Kexxer README document guidance](https://github.com/kexxer-ui/kexxer-readme/blob/main/docs/readme-document-guidance.md)
-is the primary, authoritative copy. Keep embedded copies synchronized with it.
-This is guidance version `0.3.2`.
-
-- Apart from this guidance section, a repository README has two main `##`
-  sections: Overview and Developer Notes.
-- Overview is a short free-form description of what the repository is and
-  contains.
-- Developer Notes contains `###` subsections, each with one to three bullets,
-  preferably fewer than 140 characters each.
-- Developer Notes subsections should be small and specific, such as "The Car
-  Class," rather than broad, such as "Security."
-- Each bullet describes its subsection topic.
-- A Developer Notes subsection may include one code block after its bullets.
-- If a subsection needs more than three bullets, keep its README entry to
-  exactly three: two summary bullets and one link to a fuller `docs/` document.
-- Sub-documents may use as many bullets as needed; avoid creating
-  sub-sub-documents.
-- Each sub-document should reference its repository README as its parent.
-- Fully capture the repository's nature in one short file without making it
-  difficult to read.
+Guidance version: 0.4.0
 
 ## Overview
 
@@ -33,7 +13,7 @@ files maintained collaboratively by people and AI agents.
 
 ### README Document Guidance
 
-- [README Document Guidance](docs/readme-document-guidance.md) is the primary,
-  authoritative definition of the README format.
-- Repository READMEs embed the copyable guidance and keep it synchronized with
-  the authoritative document.
+- [README Document Guidance](docs/readme-document-guidance.md) defines the
+  authoritative format and synchronization rules.
+- Repository READMEs link to the guidance and record the version they follow
+  instead of embedding its rules.
